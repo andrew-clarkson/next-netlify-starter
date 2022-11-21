@@ -8,6 +8,14 @@ export default function Home() {
       <Head>
         <title>Next.js Starter!</title>
         <link rel="icon" href="/favicon.ico" />
+        <script
+          src="https://atc-w-gabesfix.unii.rs/embed2.js"
+          data-widget-type="universe-calendar"
+          data-target-type="time-slots"
+          data-target-id="637b9ee837beef002f31ad2f"
+          data-filter="true"
+          data-state="buttonColor=#3A66E5&buttonText=Get Tickets" >
+        </script>
       </Head>
 
       <main>
